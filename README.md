@@ -1,4 +1,4 @@
 # GetStarted
 
-#Contributors
+# Contributors
 

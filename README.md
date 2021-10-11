@@ -1,5 +1,6 @@
 # GetStarted
 
 # Contributors 
-Kumar Priyanshu
+1. Kumar Priyanshu
+2. Bishak Dey
 
